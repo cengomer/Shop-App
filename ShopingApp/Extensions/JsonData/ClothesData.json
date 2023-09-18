@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "id": "83BFD10B-EAC0-48A1-9155-3354A20EE4AF",
+      "name": "Blue T-Shirt",
+      "price": 29.99,
+      "image": "item1",
+      "rate": 5,
+      "description": "Stay comfortable and stylish with this classic blue t-shirt. Made from soft, breathable fabric, it's perfect for everyday wear.",
+      "category": "Man"
+    },
+    {
+      "id": "A772876F-FC8C-4C28-B117-65411E7CEAA1",
+      "name": "Striped Dress",
+      "price": 49.99,
+      "image": "item2",
+      "rate": 3,
+      "description": "Make a fashion statement with this elegant striped dress. The timeless design and flattering fit will turn heads wherever you go.",
+      "category": "Woman"
+    },
+    {
+      "id": "7C0E7ABE-8DBD-406F-94E0-40C8A69ABACC",
+      "name": "Denim Jacket",
+      "price": 79.99,
+      "image": "item3",
+      "rate": 4,
+      "description": "Add a touch of cool to your wardrobe with this stylish denim jacket. It's perfect for layering and adds a trendy vibe to any outfit.",
+      "category": "Men"
+    },
+    {
+      "id": "26B813D4-6C7D-4F57-A16B-45FF47F51520",
+      "name": "White Sneakers",
+      "price": 59.99,
+      "image": "item4",
+      "rate": 5,
+      "description": "Step out in style with these sleek white sneakers. Their versatile design and comfortable fit make them a must-have for any fashion enthusiast.",
+      "category": "Women"
+    },
+    {
+      "id": "D84FA6B1-0510-4B76-AE27-CC68E6A007E0",
+      "name": "Black Pants",
+      "price": 39.99,
+      "image": "item5",
+      "rate": 3,
+      "description": "Upgrade your wardrobe with these chic black pants. Whether you're dressing up or going casual, they are a versatile addition to any outfit.",
+      "category": "Men"
+    },
+    {
+      "id": "F58A55B2-C2C6-48C3-A8F1-759B77017363",
+      "name": "Floral Skirt",
+      "price": 34.99,
+      "image": "item6",
+      "rate": 3,
+      "description": "Embrace your feminine side with this beautiful floral skirt. Its vibrant pattern and flowing silhouette make it perfect for any occasion.",
+      "category": "Women"
+    },
+    {
+      "id": "0EEF67DA-8B7E-4AAB-8C9D-A6E6B708E28B",
+      "name": "Leather Boots",
+      "price": 89.99,
+      "image": "item7",
+      "rate": 5,
+      "description": "Make a bold statement with these stylish leather boots. Crafted with quality materials, they offer both fashion and durability.",
+      "category": "Men"
+    },
+    {
+      "id": "4F5DE6BF-9A7C-4EF5-906F-B63A72DDB609",
+      "name": "Red Blouse",
+      "price": 44.99,
+      "image": "item8",
+      "rate": 4,
+      "description": "Add a pop of color to your wardrobe with this vibrant red blouse. Its flattering fit and eye-catching hue make it a versatile piece.",
+      "category": "Women"
+    },
+    {
+      "id": "0A6192C3-FA39-45C9-ABAA-699189198ABC",
+      "name": "Printed Shorts",
+      "price": 24.99,
+      "image": "item9",
+      "rate": 3,
+      "description": "Get ready for summer with these fun printed shorts. Their comfortable design and playful pattern make them perfect for sunny days.",
+      "category": "Men"
+    },
+    {
+      "id": "DCA169D3-170B-4A33-BE24-872EAAD226C2",
+      "name": "Gray Sweater",
+      "price": 54.99,
+      "image": "item10",
+      "rate": 5,
+      "description": "Stay cozy and stylish with this classic gray sweater. Made from soft, warm fabric, it's a wardrobe essential for chilly days.",
+      "category": "Women"
+    },
+    {
+      "id": "AE13E6E0-DF21-459C-9EB2-4F0794FD11A4",
+      "name": "Checked Shirt",
+      "price": 39.99,
+      "image": "item11",
+      "rate": 5,
+      "description": "Upgrade your casual look with this trendy checked shirt. Its timeless pattern and comfortable fit make it a versatile choice.",
+      "category": "Men"
+    },
+    {
+      "id": "CF4A8706-2A63-4DCC-9FDD-CF9F86000A40",
+      "name": "Pleated Dress",
+      "price": 69.99,
+      "image": "item12",
+      "rate": 5,
+      "description": "Elevate your style with this elegant pleated dress. The graceful design and flowing fabric create a feminine and sophisticated look.",
+      "category": "Women"
+    },
+    {
+      "id": "96B99C37-C12A-44D5-8D64-8B3AEEB5CC85",
+      "name": "Blue Jeans",
+      "price": 49.99,
+      "image": "item13",
+      "rate": 3,
+      "description": "Get that perfect fit and classic style with these reliable blue jeans. They are a wardrobe staple for any fashion-forward individual.",
+      "category": "Men"
+    },
+    {
+      "id": "BA173DB2-FF53-4A3C-90EF-EDF30E699A3C",
+      "name": "Casual Sneakers",
+      "price": 54.99,
+      "image": "item14",
+      "rate": 4,
+      "description": "Stay comfortable and stylish on your casual outings with these versatile sneakers. Their sporty design and cushioned soles provide all-day comfort.",
+      "category": "Women"
+    },
+    {
+      "id": "3A3A9130-92F1-414F-BEF6-FA1B42C86B01",
+      "name": "Striped Sweater",
+      "price": 59.99,
+      "image": "item15",
+      "rate": 4,
+      "description": "Add a touch of sophistication to your wardrobe with this striped sweater. The timeless pattern and cozy fabric make it perfect for any season.",
+      "category": "Men"
+    }
+  ]
+}
